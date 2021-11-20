@@ -9,4 +9,4 @@ The new documentation is lively, modern, and full of all the necessary informati
 * [card-template.md](/Documents/raspberry-pi-pcie-devices/card-template.md)
 * [README.md](/Documents/raspberry-pi-pcie-devices/README.md)
 
-IMAGES USED BELONG TO @geerlingguy. I do not own the rights to any part of his photography or code. 
+ANY IMAGES USED BELONG TO @geerlingguy. I do not own the rights to any part of his photography or code. 
