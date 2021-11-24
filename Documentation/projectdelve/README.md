@@ -1,5 +1,5 @@
 [![website](https://img.shields.io/website?down_color=critical&down_message=down&up_color=brightgreen&up_message=up&url=https%3A%2F%2Fprojectdelve.com%2F)](https://projectdelve.com/) [![open issues](https://img.shields.io/github/issues-raw/punnypenguins/projectdelve?logoColor=orange)](https://github.com/punnypenguins/projectdelve/issues)
- 
+
 # 📘 README 📘
 
 ![alt text](https://github.com/punnypenguins/projectdelve/blob/main/public/images/project-delve-logo.png)
@@ -24,17 +24,19 @@ I will be adding more projects to the site as I find them and as people send the
 
 So if you're looking for more projects than you find listed individually on here, make sure you check the hub websites out; you'll find many of them probably have exactly the category you were looking for.
 
+For more information on where this project is headed in the future, check out [Project Delve's roadmap]() on GitHub.
+
 # Contributing
 
-The guide to contributing to this project via GitHub has everything you need to know over in [`CONTRIBUTING.md`](https://github.com/punnypenguins/projectdelve/blob/main/documentation/CONTRIBUTING.md)
+The guide to contributing to this project via GitHub has everything you need to know over in [`CONTRIBUTING.md`](https://github.com/punnypenguins/projectdelve/blob/main/documentation/CONTRIBUTING.md).
 
 If you're not able to edit/contribute via GitHub, you can always [**email me**](kgeerling@protonmail.com) with relevant information and I'll get back with you as soon as I can.
 
 # The Creator
 
-I'm Katie. You don't need to know about me, because the point of this website is—shocking, I know—the actual *website*. But if you're looking to get in contact with me, or want to see my other work, you can follow the links below.
-- [LinkedIn](https://www.linkedin.com/in/katherine-geerling-774929111)
-- [GitHub](https://github.com/punnypenguins)
-- [Blog](https://somemossthoughts.wordpress.com/)
+I'm Katie. You don't really need to know about me, because the point of this website is—shocking, I know—the actual *website*. But if you ARE looking to get in contact with me, or want to see my other work, you can follow the links below.
+- My [resume](https://punnypenguins.github.io/)
+- My [writing samples](https://github.com/punnypenguins/writing-samples/tree/main/Documentation)
+- My [LinkedIn profile](https://www.linkedin.com/in/katherine-geerling-774929111)
 - My [Ko-fi](https://ko-fi.com/punnypenguins)
 - My [Email](kgeerling@protonmail.com)
