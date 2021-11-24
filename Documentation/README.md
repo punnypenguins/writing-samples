@@ -13,7 +13,7 @@ The new documentation is lively, modern, and full of all the necessary informati
 > ANY IMAGES USED BELONG TO @geerlingguy. I do not own the rights to any part of his photography or code. 
 
 ## Project Delve
-All documentation I've written for my initiative [Project Delve](https://projectdelve.com/) as of November 2021.
+All documentation I've written for my initiative [Project Delve](https://github.com/punnypenguins/projectdelve) as of November 2021.
 
 ### View the files:
 * [README.md](https://github.com/punnypenguins/writing-samples/blob/main/Documentation/projectdelve/README.md)
