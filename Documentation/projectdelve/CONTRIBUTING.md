@@ -2,7 +2,7 @@
 
 Project Delve welcomes file edits, new project additions, and new site features from anyone who wants to contribute.
 
-There are two paths to choose between if you plan to contribute...
+There are two paths to choose between. If you plan to contribute...
 * ...and you're **new to GitHub** - Pause here. Go follow the guide I created [**specially for beginners**](https://github.com/punnypenguins/projectdelve/blob/main/documentation/for-beginner-contributers.md) to walk you through everything.
 * ...and you **already know GitHub's workflow** - Continue on to the following sections of this doc.
 
