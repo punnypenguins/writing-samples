@@ -6,9 +6,9 @@ For [this project](https://github.com/geerlingguy/raspberry-pi-pcie-devices), I 
 The new documentation is lively, modern, and full of all the necessary information in clear step-by-step format.
 
 ### View the files:
-* [README.md](/Documents/raspberry-pi-pcie-devices/README.md)
-* [board-template.md](/Documents/raspberry-pi-pcie-devices/board-template.md)
-* [card-template.md](/Documents/raspberry-pi-pcie-devices/card-template.md)
+* [README.md](https://github.com/punnypenguins/writing-samples/blob/main/Documentation/raspberry-pi-pcie-devices/README.md)
+* [board-template.md](https://github.com/punnypenguins/writing-samples/blob/main/Documentation/raspberry-pi-pcie-devices/board-template.md)
+* [card-template.md](https://github.com/punnypenguins/writing-samples/blob/main/Documentation/raspberry-pi-pcie-devices/card-template.md)
 
 > ANY IMAGES USED BELONG TO @geerlingguy. I do not own the rights to any part of his photography or code. 
 
