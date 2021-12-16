@@ -48,8 +48,6 @@ Thank you so much for helping all of us find more projects to join!
 5. Open a **pull request** for your work:
   - Give it a simple title, clearly stating what kind of change it is (edit, fix, update, etc.).
   - You don't *have* to write a full description/summary for the pull request, but please **DO** type inside that box "Issue #[issue-number-here]". This will connect your pull request with the issue you're addressing and make it easy for me to close issues instead of leaving one open on accident.
-    - If there's not already an issue for the project you're adding, please take a minute to open a new issue for it and then connect your pull request to that. Thanks!
-
 
 # Review process
 
